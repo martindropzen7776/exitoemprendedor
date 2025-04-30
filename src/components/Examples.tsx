@@ -5,17 +5,17 @@ const examples = [
   {
     title: 'Landing Page Ventas',
     description: 'Template optimizado para venta de productos digitales',
-    image: 'https://images.pexels.com/photos/5076516/pexels-photo-5076516.jpeg'
+    image: '18-modelo-cycor.jpg'
   },
   {
     title: 'Landing Servicios',
     description: 'Diseño profesional para servicios premium',
-    image: 'https://images.pexels.com/photos/5076521/pexels-photo-5076521.jpeg'
+    image: '15-modelo-perfect.jpg'
   },
   {
     title: 'Landing Webinar',
     description: 'Optimizada para registro de eventos online',
-    image: 'https://images.pexels.com/photos/5076522/pexels-photo-5076522.jpeg'
+    image: '06-modelo-fit.jpg'
   }
 ];
 
