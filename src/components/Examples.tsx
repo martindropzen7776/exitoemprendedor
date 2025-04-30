@@ -5,17 +5,17 @@ const examples = [
   {
     title: 'Landing Page Ventas',
     description: 'Template optimizado para venta de productos digitales',
-    image: '18-modelo-cycor.jpg'
+    image: 'blob:https://web.whatsapp.com/3768fb26-c0e4-40b4-9552-8a2eee20ed23'
   },
   {
     title: 'Landing Servicios',
     description: 'Diseño profesional para servicios premium',
-    image: '15-modelo-perfect.jpg'
+    image: 'blob:https://web.whatsapp.com/a7f59356-77f2-411d-8b67-c23c73ddeec0' 
   },
   {
     title: 'Landing Webinar',
     description: 'Optimizada para registro de eventos online',
-    image: '06-modelo-fit.jpg'
+    image: 'blob:https://web.whatsapp.com/dee4ccd7-8f22-4051-816c-62cd9608b9d0'
   }
 ];
 
